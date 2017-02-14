@@ -1,0 +1,4 @@
+Models
+what is tweeps model class instance:  A user object,
+					elements: name, followers_count, friend’s name
+					
